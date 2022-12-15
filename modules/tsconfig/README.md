@@ -4,6 +4,10 @@
 
 [`@suimenkathemove`](https://github.com/suimenkathemove)'s tsconfig.
 
+- [@suimenkathemove/tsconfig](#suimenkathemovetsconfig)
+  - [Installation](#installation)
+  - [Usage](#usage)
+
 ## Installation
 
 ```shell
