@@ -1,4 +1,7 @@
 {
   "name": "@suimenkathemove/tsconfig",
-  "version": "0.1.9"
+  "version": "0.1.9",
+  "files": [
+    "tsconfig.json"
+  ]
 }
