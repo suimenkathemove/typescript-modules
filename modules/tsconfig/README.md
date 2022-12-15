@@ -9,3 +9,11 @@
 ```shell
 yarn add -D @suimenkathemove/tsconfig
 ```
+
+## Usage
+
+```json
+{
+  "extends": "@suimenkathemove/tsconfig"
+}
+```
