@@ -1,0 +1,7 @@
+{
+  "name": "@suimenkathemove/eslint-config",
+  "version": "0.1.0",
+  "files": [
+    "index.js"
+  ]
+}
