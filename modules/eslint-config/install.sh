@@ -5,5 +5,4 @@ yarn add -D \
   eslint-plugin-import \
   @typescript-eslint/parser \
   @typescript-eslint/eslint-plugin \
-  prettier \
   eslint-config-prettier
