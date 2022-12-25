@@ -16,6 +16,8 @@ yarn add -D @suimenkathemove/tsconfig
 
 ## Usage
 
+`tsconfig.json`
+
 ```json
 {
   "extends": "@suimenkathemove/tsconfig"
