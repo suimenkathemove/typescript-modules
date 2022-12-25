@@ -16,8 +16,10 @@ yarn add -D @suimenkathemove/eslint-config
 
 ## Usage
 
-```json
-{
-  "extends": ["@suimenkathemove/eslint-config"]
-}
+`.eslintrc.js`
+
+```js
+module.exports = {
+  extends: ["@suimenkathemove/eslint-config"],
+};
 ```
