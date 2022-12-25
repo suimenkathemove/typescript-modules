@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/@suimenkathemove%2Feslint-config.svg)](https://badge.fury.io/js/@suimenkathemove%2Feslint-config)
 
-[`@suimenkathemove`](https://github.com/suimenkathemove)'s ESLint configuration file.
+[@suimenkathemove](https://github.com/suimenkathemove)'s ESLint configuration file.
 
 - [ESLint config](#eslint-config)
   - [Installation](#installation)
