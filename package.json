@@ -1,6 +1,7 @@
 {
   "name": "@suimenkathemove/typescript-modules",
   "version": "0.1.0",
+  "license": "MIT",
   "devDependencies": {
     "@suimenkathemove/eslint-config": "^0.1.2",
     "@suimenkathemove/prettier-config": "^0.1.1",

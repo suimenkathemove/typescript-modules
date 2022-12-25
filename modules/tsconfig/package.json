@@ -1,6 +1,7 @@
 {
   "name": "@suimenkathemove/tsconfig",
   "version": "0.1.12",
+  "license": "MIT",
   "files": [
     "tsconfig.json"
   ],

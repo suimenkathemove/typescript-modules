@@ -1,6 +1,7 @@
 {
   "name": "@suimenkathemove/eslint-config",
   "version": "0.1.4",
+  "license": "MIT",
   "files": [
     "index.js"
   ],
