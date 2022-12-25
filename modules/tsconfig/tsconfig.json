@@ -2,11 +2,20 @@
   "compilerOptions": {
     "target": "ESNext",
     "module": "CommonJS",
+    "baseUrl": "../../../src",
+    "paths": {
+      "@/*": ["*"]
+    },
     "strict": true,
     "exactOptionalPropertyTypes": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "noUncheckedIndexedAccess": true,
     "noImplicitOverride": true
+  },
+  "include": ["../../../src/**/*.ts"],
+  "exclude": ["../../../node_modules"],
+  "ts-node": {
+    "require": ["tsconfig-paths/register"]
   }
 }
