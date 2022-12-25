@@ -1,10 +1,10 @@
 {
   "name": "@suimenkathemove/prettier-config",
   "version": "0.1.1",
-  "main": "index.js",
   "files": [
     "index.js"
   ],
+  "main": "index.js",
   "dependencies": {
     "prettier": "^2.8.1"
   }
